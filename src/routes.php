@@ -1,6 +1,4 @@
 <?php
-//hello route
-require __DIR__ . '/Controllers/hello.php';
+//data route
+require __DIR__ . '/Controllers/staffs.php';
 
-//product route
-require __DIR__ . '/controllers/product.php';

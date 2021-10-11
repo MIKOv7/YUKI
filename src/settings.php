@@ -8,14 +8,12 @@ return [
  'renderer' => [
  'template_path' => __DIR__ . '/../templates/',
  ],
-  // Database connection settings
-  "db" => [
-    "host" => "localhost",
-    "dbname" => "inventory",
-    "user" => "root",
-    "pass" => "",
-    ]
-   
+ // Database connection settings
+ "db" => [
+ "host" => "localhost",
+ "dbname" => "new",
+ "user" => "root",
+ "pass" => "",
+ ]
  ],
 ];
-
